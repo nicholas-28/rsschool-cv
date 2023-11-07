@@ -25,4 +25,8 @@ function multiply(a, b){
 - PSTGU - Romance Philology
 - BYU - Applied Technology
 
-
+## Languages
+- Russian
+- Ukrainian
+- English (B2-C1)
+- Italian (C1)
